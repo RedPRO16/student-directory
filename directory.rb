@@ -103,6 +103,3 @@ end
 
 try_load_students
 interactive_menu
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
